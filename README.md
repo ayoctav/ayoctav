@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayoctav
 - 👀 I’m interested in Data Analytics, Data Scientist or etc about 'Data' :)
-- 🌱 I’m currently learning SQL, Phyton, R
+- 🌱 I’m currently learning SQL, Python, R
 
 <!---
 ayoctav/ayoctav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
